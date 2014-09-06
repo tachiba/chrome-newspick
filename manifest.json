@@ -1,7 +1,8 @@
 {
-  "name": "NewsPicker",
-  "version": "0.1",
-  "description": "Open a new form with current page url",
+  "name": "NewsPicker - 開いているページをNewsPickに投稿できる非公式拡張機能",
+  "short_name": "NewsPicker",
+  "version": "0.1.1",
+  "description": "開いているページを簡単にNewsPickに投稿できる非公式拡張機能です。",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
